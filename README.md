@@ -3,6 +3,11 @@ interview-problems
 
 This is  a repository for collecting interview issues, and proposing some good suggestions to solve them. Waiting for you join us...
 
+### git usage: If you are not farmilar with git, please click the fllowing link. 
+
+[An Introduction to GitHub](http://xudaoli.dn.qbox.me/talks/teamwork-with-git-flow/#(1))
+
+
 ### 参与方式
 本`repo`中包含一个面试题的`doc`文档，里面题目有已经编了号。为每个问题单独建立一个文件夹，文件夹名称就是题目的编号。比如编号为1的问题，建立一个文件夹名称为001，在该文件夹下编写各种语言的实现版本，以及相应的单元测试。
 
@@ -21,9 +26,6 @@ This is  a repository for collecting interview issues, and proposing some good s
 ### 期待您的加入！！！
 
 欢迎补充更多的数据结构算法相关的面试题，本面试题只是我们搜集的一部分，日后doc文档会继续补充完善。
-
-git usage: If you are not farmilar with git, please click the fllowing link.
-[An Introduction to GitHub](http://xudaoli.dn.qbox.me/talks/teamwork-with-git-flow/#(1))
 
 
 # Problem List
