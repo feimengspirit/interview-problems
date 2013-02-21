@@ -55,9 +55,10 @@ The binary-search bug applies equally to mergesort, and to other divide-and-conq
 We programmers need all the help we can get, and we should never assume otherwise. Careful design is great. Testing is great. Formal methods are great. Code reviews are great. Static analysis is great. But none of these things alone are sufficient to eliminate bugs: They will always be with us. A bug can exist for half a century despite our best efforts to exterminate it. We must program carefully, defensively, and remain ever vigilant.
 
 Update 17 Feb 2008: Thanks to Antoine Trux, Principal Member of Engineering Staff at Nokia Research Center Finland for pointing out that the original proposed fix for C and C++ (Line 6), was not guaranteed to work by the relevant C99 standard (INTERNATIONAL STANDARD - ISO/IEC - 9899 - Second edition - 1999-12-01, 3.4.3.3), which says that if you add two signed quantities and get an overflow, the result is undefined. The older C Standard, C89/90, and the C++ Standard are both identical to C99 in this respect. Now that we've made this change, we know that the program is correct;)
-Resources
+
+Resources  
 
 
-Programming Pearls - Highly recommended. Get a copy today!
-The Sun bug report describing this bug in the JDK
-A 2003 paper by Salvatore Ruggieri discussing a related problem - The problem is a bit more general but perhaps less interesting: the average of two numbers of arbitrary sign. The paper does not discuss performance, and its solution is not fast enough for use in the inner loop of a mergesort.
+Programming Pearls - Highly recommended. Get a copy today!  
+The Sun bug report describing this bug in the JDK  
+A 2003 paper by Salvatore Ruggieri discussing a related problem - The problem is a bit more general but perhaps less interesting: the average of two numbers of arbitrary   sign. The paper does not discuss performance, and its solution is not fast enough for use in the inner loop of a mergesort.  
