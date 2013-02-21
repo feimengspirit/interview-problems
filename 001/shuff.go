@@ -29,7 +29,7 @@ func swap(data []int, i, j int) {
     data[i], data[j] = data[j], data[i]
 }
 
-// generate a random num within [from, to)
+// generate a random num in the range of [from, to)
 func randRange(from, to int) (r int) {
 
     source := rand.NewSource(time.Now().UnixNano())
