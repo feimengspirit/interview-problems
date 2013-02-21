@@ -1,3 +1,8 @@
+/**
+ * Author : wangjinlei
+ * Email  : sea11107@mail.ustc.edu.cn
+ */
+
 public class Compress {
 	
 	public static String compress(String s) {
