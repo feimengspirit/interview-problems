@@ -22,6 +22,9 @@ This is  a repository for collecting interview issues, and proposing some good s
 
 欢迎补充更多的数据结构算法相关的面试题，本面试题只是我们搜集的一部分，日后doc文档会继续补充完善。
 
+git usage: If you are not farmilar with git, please click the fllowing link.
+[An Introduction to GitHub](http://xudaoli.dn.qbox.me/talks/teamwork-with-git-flow/#(1))
+
 
 # Problem List
 线性结构：数组、链表、栈、队列
