@@ -16,7 +16,7 @@ If you are not farmilar with git, please click the fllowing link.
 ### 示例：  
 001 文件夹  
    |- `shuffle.go`  问题一的`go`语言实现版本  
-   |- `shuffle.c`   问题一的`C`语言实现版本   
+   |- `shuffle.c`   问题一的`ansic c`语言实现版本   
    |- `Shuffle.java`  问题一的`java`实现版本  
    |- `README.md` 关于问题一更多的补充说明  
 
