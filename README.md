@@ -3,7 +3,9 @@ interview-problems
 
 This is  a repository for collecting interview issues, and proposing some good suggestions to solve them. Waiting for you join us...
 
-### git usage: If you are not farmilar with git, please click the fllowing link. 
+## git usage
+
+If you are not farmilar with git, please click the fllowing link. 
 
 [An Introduction to GitHub](http://xudaoli.dn.qbox.me/talks/teamwork-with-git-flow/#(1))
 
