@@ -5,6 +5,7 @@
 
 public class Assending {
 
+	// recurrsive way
 	public static boolean isAssending(int[] data) {	
 		return helper(0, data) ;
 	}
