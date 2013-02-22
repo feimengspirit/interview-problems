@@ -25,7 +25,7 @@ public class ReArrange {
 	}
 	
 	
-	// if i is odd return true, false, otherwise.
+	// if i is even return true, false, otherwise.
 	public static boolean even(int i) {
 		return (i & 1) == 0;
 	}
