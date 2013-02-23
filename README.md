@@ -5,7 +5,7 @@ This is  a repository for collecting interview issues, and proposing some good s
 
 ### git usage: If you are not farmilar with git, please click the fllowing link. 
 
-[An Introduction to GitHub](http://xudaoli.dn.qbox.me/talks/teamwork-with-git-flow/#(1))
+[An Introduction to GitHub](http://xudaoli.dn.qbox.me/talks/teamwork-with-git-flow/#(1)
 
 
 ### 参与方式
@@ -22,6 +22,12 @@ This is  a repository for collecting interview issues, and proposing some good s
 
 ### More
 我希望任何一个文件夹下都有的那个README.md文档能够给出该问题的来源，一些经典的错误，以及更好的分析。如果很好的参考资料也可以在文档中列出, 如果能在原来问题的基础上能有更多的扩展就更好了。
+
+### 最低要求：给出算法的一般思路，给我伪代码
+### 中级要求：给出算法思路，给出代码的完整实现，并给出单元测试
+### 最高要求，描绘算法背后最本质的思想，给出每个算法的不变式，证明算法的正确性，举一反三
+### 如果你知道面试题的来源，比如是某本书的例题或者课后习题，亦或者是某名校的考研题，某公司的面试题等等，都请标注上。
+
 
 ### 期待您的加入！！！
 
