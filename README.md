@@ -7,7 +7,7 @@ This is  a repository for collecting interview issues, and proposing some good s
 
 If you are not farmilar with git, please click the fllowing link. 
 
-[An Introduction to GitHub](http://xudaoli.dn.qbox.me/talks/teamwork-with-git-flow/#(1))
+[An Introduction to GitHub](http://xudaoli.dn.qbox.me/talks/teamwork-with-git-flow/)
 
 
 ### 参与方式

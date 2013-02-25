@@ -4,6 +4,7 @@
  */
 
 class Node {
+
 	public int data;
 	public Node next;
 	
@@ -28,6 +29,7 @@ class LinkedList {
 		return this;
 	}
 	
+	// an elegant way to print the list
 	public String toString() {
 		StringBuilder sbuf = new StringBuilder();
 		for (Node begin= this.head; begin != null; begin = begin.next) {
