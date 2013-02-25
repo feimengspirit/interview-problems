@@ -38,12 +38,14 @@ class LinkedList {
 	
 	
 	public void reverse() {
-		this.head = reverse_helper(null, head, head.next);
+		if (this.head == null)
+			return;
+		this.head = reverseHelper(null, head, head.next);
 	}
 	
-	private Node reverse_helper(Node t, Node p, Node q) {
+	private Node reverseHelper(Node t, Node p, Node q) {
 		p.next = t;
-		return (q == null) ? p : reverse_helper(p, q, q.next);
+		return (q == null) ? p : reverseHelper(p, q, q.next);
 	}
 }
  
