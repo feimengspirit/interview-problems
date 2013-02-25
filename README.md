@@ -15,10 +15,10 @@ If you are not farmilar with git, please click the fllowing link.
 
 ### 示例：  
 001 文件夹  
-   |- `shuffle.go`  问题一的`go`语言实现版本  
-   |- `shuffle.c`   问题一的`ansic c`语言实现版本   
-   |- `Shuffle.java`  问题一的`java`实现版本  
-   |- `README.md` 关于问题一更多的补充说明  
+>   |- `shuffle.go`  问题一的`go`语言实现版本  
+>   |- `shuffle.c`   问题一的`ansic c`语言实现版本   
+>   |- `Shuffle.java`  问题一的`java`实现版本  
+>   |- `README.md` 关于问题一更多的补充说明，该问题的解题思路，问题的来源，典型的错误，等等。
 
 您可以挑选您感兴趣的题目进行解答，建议给出完整的代码，而不是简短的给出解题的思路。因为很多人可以在几十秒内给出思路，估计几十分钟写不出正确的代码，所以希望大家平时多练习，不至于面试的时候现场写代码时手慌脚乱，如果你不相信，你写一个二分查找试试看，你能保证写的正确？^_^
 
